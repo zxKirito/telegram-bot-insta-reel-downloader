@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/reel-downloader.git
+   git clone https://github.com/zxKirito/reel-downloader.git
    cd reel-downloader
    ```
 
@@ -61,7 +61,7 @@ Before you begin, ensure you have met the following requirements:
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! 
-Feel free to check out the [issues page](https://github.com/your-username/reel-downloader/issues).
+Feel free to check out the [issues page](https://github.com/zxKirito/reel-downloader/issues).
 
 ## 📄 License
 
